@@ -1,0 +1,90 @@
+﻿@model Enciklopedija.Models.Pjesma
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Pjesma</h4>
+    <hr />
+    @Html.HiddenFor(model => model.ID)
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Naslov)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Naslov)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Napomene)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Napomene)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Glasovi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Glasovi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Izvodac.Naziv)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Izvodac.Naziv)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <a href="#" id="like-button">Like</a> |
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+@section scripts{
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#like-button").click(function () {
+                $.ajax({
+                    url: '/Glazba/Pjesmas/UvecajGlas',
+                    type: 'POST',
+                    traditional: true,
+                    data: { id: $("#ID").val() },
+                    beforeSend: function () {
+                        alert("Prije slanja!");
+                    },
+                    success: function (result) {
+                        alert("Uspješno izvršeno!");
+                    },
+                    error: function (jqXHR, textStatus, errorThrown) {
+                        alert(jqXHR.responseText);
+                    },
+                    complete: function () {
+                        alert("Gotovo!");
+                    }
+                });
+            });
+        });
+    </script>
+}
+
+
+
+
+
+
+
+
+
+

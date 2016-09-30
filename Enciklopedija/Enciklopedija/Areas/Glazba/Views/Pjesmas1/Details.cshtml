@@ -1,0 +1,55 @@
+﻿@model Enciklopedija.Models.Pjesma
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Pjesma</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Naslov)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Naslov)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Napomene)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Napomene)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Glasovi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Glasovi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Izvodac.Naziv)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Izvodac.Naziv)
+        </dd>
+
+    </dl>
+    <hr />
+    <audio controls>
+        <source src="~/Areas/Glazba/Datoteke/@(Model.FileName)" type="audio/mpeg">
+        Vaš preglednik ne podržava audio html elemente!
+    </audio>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

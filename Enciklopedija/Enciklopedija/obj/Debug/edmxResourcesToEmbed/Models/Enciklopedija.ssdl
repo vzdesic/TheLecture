@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EnciklopedijaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Dogadaj">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Naziv" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Pocetak" Type="datetime" />
+    <Property Name="Kraj" Type="datetime" />
+    <Property Name="Opis" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Izvodac">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Naziv" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Napomene" Type="nvarchar(max)" />
+    <Property Name="Glasovi" Type="int" />
+  </EntityType>
+  <EntityType Name="Osoba">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ime" Type="nvarchar" MaxLength="50" />
+    <Property Name="Prezime" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="GodinaRodenja" Type="datetime" />
+    <Property Name="GodinaSmrti" Type="datetime" />
+    <Property Name="Opis" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Pjesma">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Naslov" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Napomene" Type="nvarchar(max)" />
+    <Property Name="IzvodacID" Type="int" />
+    <Property Name="Glasovi" Type="int" />
+    <Property Name="Datoteka" Type="varbinary(max)" />
+    <Property Name="ContentType" Type="nvarchar" MaxLength="250" />
+    <Property Name="FileName" Type="nvarchar" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="Zanimljivost">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Naslov" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Opis" Type="nvarchar(max)" />
+    <Property Name="Url" Type="nvarchar" MaxLength="250" />
+    <Property Name="VideoUrl" Type="nvarchar" MaxLength="250" />
+    <Property Name="VideoStart" Type="int" />
+    <Property Name="VideoEnd" Type="int" />
+    <Property Name="ZanrID" Type="int" />
+    <Property Name="Glasovi" Type="int" />
+  </EntityType>
+  <EntityType Name="Zanr">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Naziv" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Opis" Type="nvarchar" MaxLength="250" />
+  </EntityType>
+  <Association Name="FK_Pjesma_Izvodac">
+    <End Role="Izvodac" Type="Self.Izvodac" Multiplicity="0..1" />
+    <End Role="Pjesma" Type="Self.Pjesma" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Izvodac">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Pjesma">
+        <PropertyRef Name="IzvodacID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Zanimljivost_Zanr">
+    <End Role="Zanr" Type="Self.Zanr" Multiplicity="0..1" />
+    <End Role="Zanimljivost" Type="Self.Zanimljivost" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Zanr">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Zanimljivost">
+        <PropertyRef Name="ZanrID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EnciklopedijaModelStoreContainer">
+    <EntitySet Name="Dogadaj" EntityType="Self.Dogadaj" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Izvodac" EntityType="Self.Izvodac" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Osoba" EntityType="Self.Osoba" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Pjesma" EntityType="Self.Pjesma" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Zanimljivost" EntityType="Self.Zanimljivost" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Zanr" EntityType="Self.Zanr" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Pjesma_Izvodac" Association="Self.FK_Pjesma_Izvodac">
+      <End Role="Izvodac" EntitySet="Izvodac" />
+      <End Role="Pjesma" EntitySet="Pjesma" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Zanimljivost_Zanr" Association="Self.FK_Zanimljivost_Zanr">
+      <End Role="Zanr" EntitySet="Zanr" />
+      <End Role="Zanimljivost" EntitySet="Zanimljivost" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EnciklopedijaModelStoreContainer" CdmEntityContainer="EnciklopedijaEntities">
+    <EntitySetMapping Name="Zanimljivosts">
+      <EntityTypeMapping TypeName="EnciklopedijaModel.Zanimljivost">
+        <MappingFragment StoreEntitySet="Zanimljivost">
+          <ScalarProperty Name="Glasovi" ColumnName="Glasovi" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Naslov" ColumnName="Naslov" />
+          <ScalarProperty Name="Opis" ColumnName="Opis" />
+          <ScalarProperty Name="Url" ColumnName="Url" />
+          <ScalarProperty Name="VideoUrl" ColumnName="VideoUrl" />
+          <ScalarProperty Name="VideoStart" ColumnName="VideoStart" />
+          <ScalarProperty Name="VideoEnd" ColumnName="VideoEnd" />
+          <ScalarProperty Name="ZanrID" ColumnName="ZanrID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Zanrs">
+      <EntityTypeMapping TypeName="EnciklopedijaModel.Zanr">
+        <MappingFragment StoreEntitySet="Zanr">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Opis" ColumnName="Opis" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Dogadajs">
+      <EntityTypeMapping TypeName="EnciklopedijaModel.Dogadaj">
+        <MappingFragment StoreEntitySet="Dogadaj">
+          <ScalarProperty Name="Opis" ColumnName="Opis" />
+          <ScalarProperty Name="Kraj" ColumnName="Kraj" />
+          <ScalarProperty Name="Pocetak" ColumnName="Pocetak" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Osobas">
+      <EntityTypeMapping TypeName="EnciklopedijaModel.Osoba">
+        <MappingFragment StoreEntitySet="Osoba">
+          <ScalarProperty Name="Opis" ColumnName="Opis" />
+          <ScalarProperty Name="GodinaSmrti" ColumnName="GodinaSmrti" />
+          <ScalarProperty Name="GodinaRodenja" ColumnName="GodinaRodenja" />
+          <ScalarProperty Name="Prezime" ColumnName="Prezime" />
+          <ScalarProperty Name="Ime" ColumnName="Ime" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Izvodacs">
+      <EntityTypeMapping TypeName="EnciklopedijaModel.Izvodac">
+        <MappingFragment StoreEntitySet="Izvodac">
+          <ScalarProperty Name="Glasovi" ColumnName="Glasovi" />
+          <ScalarProperty Name="Napomene" ColumnName="Napomene" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Pjesmas">
+      <EntityTypeMapping TypeName="EnciklopedijaModel.Pjesma">
+        <MappingFragment StoreEntitySet="Pjesma">
+          <ScalarProperty Name="FileName" ColumnName="FileName" />
+          <ScalarProperty Name="ContentType" ColumnName="ContentType" />
+          <ScalarProperty Name="Datoteka" ColumnName="Datoteka" />
+          <ScalarProperty Name="Glasovi" ColumnName="Glasovi" />
+          <ScalarProperty Name="IzvodacID" ColumnName="IzvodacID" />
+          <ScalarProperty Name="Napomene" ColumnName="Napomene" />
+          <ScalarProperty Name="Naslov" ColumnName="Naslov" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

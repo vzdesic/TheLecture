@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Enciklopedija.Models.Zanimljivost>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<div>
+    <input type="button" id="load" value="Učitaj" />
+</div>
+<br />
+<table id="jqTable" class="scroll"></table>
+
+@section scripts{
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <link href="~/Scripts/jqGrid/css/ui.jqgrid.css" rel="stylesheet" />
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+    <script src="~/Scripts/jqGrid/js/i18n/grid.locale-en.js"></script>
+    <script src="~/Scripts/jqGrid/js/jquery.jqGrid.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#load").click(function () {
+                $("#jqTable").jqGrid('setGridParam', { datatype: 'json' }).trigger('reloadGrid');
+            });
+            $("#jqTable").jqGrid({
+                url: "/Zanimljivosti/Zanimljivosts/DohvatiZanimljivosti",
+                datatype: "local",
+                mtype: "POST",
+                colNames: ["Naslov", "Opis", "Zanr"],
+                colModel: [
+                { name: "Naslov", index: "Naslov", width: 250, align: "left" },
+                { name: "Opis", index: "Opis", width: 550, align: "left" },
+                { name: "Zanr", index: "Zanr", width: 100, align: "left" }],
+                jsonReader: {
+                    root: "rows",
+                    page: "page",
+                    total: "total",
+                    records: "records",
+                    repeatitems: true,
+                    userdata: "userdata"
+                },
+                // Grid caption
+                caption: "Zanimljivosti"
+            });
+        });
+    </script>
+}

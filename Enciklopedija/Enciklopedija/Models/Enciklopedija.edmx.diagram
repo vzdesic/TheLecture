@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="340dfff26f0a4279a7ef7940b10f07d8" Name="Diagram1">
+        <EntityTypeShape EntityType="EnciklopedijaModel.Zanimljivost" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="EnciklopedijaModel.Zanr" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <AssociationConnector Association="EnciklopedijaModel.FK_Zanimljivost_Zanr" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="EnciklopedijaModel.Dogadaj" Width="1.5" PointX="0.75" PointY="4.75" />
+        <EntityTypeShape EntityType="EnciklopedijaModel.Osoba" Width="1.5" PointX="2.75" PointY="4.75" />
+        <EntityTypeShape EntityType="EnciklopedijaModel.Izvodac" Width="1.5" PointX="5.375" PointY="1" />
+        <EntityTypeShape EntityType="EnciklopedijaModel.Pjesma" Width="1.5" PointX="7.625" PointY="0.875" />
+        <AssociationConnector Association="EnciklopedijaModel.FK_Pjesma_Izvodac" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

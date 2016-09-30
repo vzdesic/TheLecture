@@ -1,0 +1,385 @@
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Enciklopedija.dll.config
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Enciklopedija.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Enciklopedija.pdb
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Antlr3.Runtime.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\EntityFramework.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\EntityFramework.SqlServer.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.Owin.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.Owin.Security.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Google.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.Web.Infrastructure.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Newtonsoft.Json.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Owin.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\System.Web.Helpers.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\System.Web.Mvc.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\System.Web.Optimization.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\System.Web.Razor.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\System.Web.WebPages.Deployment.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\System.Web.WebPages.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\System.Web.WebPages.Razor.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\WebGrease.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\System.Web.Helpers.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\System.Web.Mvc.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\System.Web.Optimization.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\System.Web.Razor.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\System.Web.WebPages.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\System.Web.WebPages.Deployment.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\System.Web.WebPages.Razor.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Antlr3.Runtime.pdb
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Newtonsoft.Json.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\EntityFramework.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\EntityFramework.SqlServer.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.Owin.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.Owin.Security.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Google.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\obj\Debug\Enciklopedija.csprojResolveAssemblyReference.cache
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\obj\Debug\Enciklopedija.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija\Enciklopedija\obj\Debug\Enciklopedija.pdb
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Enciklopedija.dll.config
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Enciklopedija.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Enciklopedija.pdb
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Antlr3.Runtime.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\EntityFramework.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\EntityFramework.SqlServer.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.Owin.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.Owin.Security.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.Owin.Security.Google.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.Web.Infrastructure.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Newtonsoft.Json.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Owin.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\System.Web.Helpers.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\System.Web.Mvc.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\System.Web.Optimization.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\System.Web.Razor.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\System.Web.WebPages.Deployment.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\System.Web.WebPages.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\System.Web.WebPages.Razor.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\WebGrease.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\System.Web.Helpers.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\System.Web.Mvc.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\System.Web.Optimization.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\System.Web.Razor.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\System.Web.WebPages.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\System.Web.WebPages.Deployment.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\System.Web.WebPages.Razor.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Antlr3.Runtime.pdb
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Newtonsoft.Json.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\EntityFramework.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\EntityFramework.SqlServer.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.Owin.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.Owin.Security.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.Owin.Security.Google.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\obj\Debug\Enciklopedija.csprojResolveAssemblyReference.cache
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\obj\Debug\Enciklopedija.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Areas\Enciklopedija\obj\Debug\Enciklopedija.pdb
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Enciklopedija.dll.config
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Enciklopedija.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Enciklopedija.pdb
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Antlr3.Runtime.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\EntityFramework.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\EntityFramework.SqlServer.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.Owin.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.Owin.Security.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.Owin.Security.Google.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.Web.Infrastructure.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Newtonsoft.Json.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Owin.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\System.Web.Helpers.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\System.Web.Mvc.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\System.Web.Optimization.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\System.Web.Razor.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\System.Web.WebPages.Deployment.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\System.Web.WebPages.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\System.Web.WebPages.Razor.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\WebGrease.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\System.Web.Helpers.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\System.Web.Mvc.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\System.Web.Optimization.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\System.Web.Razor.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\System.Web.WebPages.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\System.Web.WebPages.Deployment.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\System.Web.WebPages.Razor.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Antlr3.Runtime.pdb
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Newtonsoft.Json.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\EntityFramework.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\EntityFramework.SqlServer.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.Owin.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.Owin.Security.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.Owin.Security.Google.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\obj\Debug\Enciklopedija.csprojResolveAssemblyReference.cache
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\obj\Debug\Enciklopedija.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - Routing\Enciklopedija\obj\Debug\Enciklopedija.pdb
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Enciklopedija.dll.config
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Enciklopedija.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Enciklopedija.pdb
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Antlr3.Runtime.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\EntityFramework.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\EntityFramework.SqlServer.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.Owin.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.Owin.Security.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.Owin.Security.Google.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.Web.Infrastructure.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Newtonsoft.Json.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Owin.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\System.Web.Helpers.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\System.Web.Mvc.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\System.Web.Optimization.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\System.Web.Razor.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\System.Web.WebPages.Deployment.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\System.Web.WebPages.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\System.Web.WebPages.Razor.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\WebGrease.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\EntityFramework.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\EntityFramework.SqlServer.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\System.Web.Helpers.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\System.Web.Mvc.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\System.Web.Optimization.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\System.Web.Razor.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\System.Web.WebPages.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\System.Web.WebPages.Deployment.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\System.Web.WebPages.Razor.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Antlr3.Runtime.pdb
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Newtonsoft.Json.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.Owin.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.Owin.Security.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.Owin.Security.Google.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\obj\Debug\Enciklopedija.csprojResolveAssemblyReference.cache
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\obj\Debug\Enciklopedija.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - jqGrid test\Enciklopedija\obj\Debug\Enciklopedija.pdb
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Enciklopedija.dll.config
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Enciklopedija.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Enciklopedija.pdb
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Antlr3.Runtime.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\EntityFramework.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\EntityFramework.SqlServer.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.Owin.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.Owin.Security.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.Owin.Security.Google.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.Web.Infrastructure.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Newtonsoft.Json.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Owin.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\System.Web.Helpers.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\System.Web.Mvc.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\System.Web.Optimization.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\System.Web.Razor.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\System.Web.WebPages.Deployment.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\System.Web.WebPages.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\System.Web.WebPages.Razor.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\WebGrease.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\EntityFramework.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\EntityFramework.SqlServer.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\System.Web.Helpers.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\System.Web.Mvc.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\System.Web.Optimization.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\System.Web.Razor.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\System.Web.WebPages.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\System.Web.WebPages.Deployment.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\System.Web.WebPages.Razor.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Antlr3.Runtime.pdb
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Newtonsoft.Json.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.Owin.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.Owin.Security.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.Owin.Security.Google.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\obj\Debug\Enciklopedija.csprojResolveAssemblyReference.cache
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\obj\Debug\Enciklopedija.dll
+D:\Privatno\VERN\Programiranje za Internet\MVC\Satovi\Enciklopedija - klijentsko programiranje\Enciklopedija\obj\Debug\Enciklopedija.pdb
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Enciklopedija.dll.config
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Enciklopedija.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Enciklopedija.pdb
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Antlr3.Runtime.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\EntityFramework.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\EntityFramework.SqlServer.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Google.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Web.Infrastructure.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Newtonsoft.Json.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Owin.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\System.Web.Helpers.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\System.Web.Mvc.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\System.Web.Optimization.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\System.Web.Razor.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\System.Web.WebPages.Deployment.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\System.Web.WebPages.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\System.Web.WebPages.Razor.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\WebGrease.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\EntityFramework.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\EntityFramework.SqlServer.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\System.Web.Helpers.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\System.Web.Mvc.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\System.Web.Optimization.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\System.Web.Razor.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\System.Web.WebPages.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\System.Web.WebPages.Deployment.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\System.Web.WebPages.Razor.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Antlr3.Runtime.pdb
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Newtonsoft.Json.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Google.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\obj\Debug\Enciklopedija.csprojResolveAssemblyReference.cache
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\obj\Debug\Enciklopedija.dll
+D:\Privatno\Muzika\InspiringLecture\Enviklopedija\Enciklopedija\obj\Debug\Enciklopedija.pdb
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Enciklopedija.dll.config
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Enciklopedija.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Enciklopedija.pdb
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Antlr3.Runtime.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\EntityFramework.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\EntityFramework.SqlServer.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Google.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Web.Infrastructure.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Newtonsoft.Json.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Owin.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\System.Web.Helpers.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\System.Web.Mvc.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\System.Web.Optimization.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\System.Web.Razor.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\System.Web.WebPages.Deployment.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\System.Web.WebPages.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\System.Web.WebPages.Razor.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\WebGrease.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\EntityFramework.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\EntityFramework.SqlServer.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\System.Web.Helpers.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\System.Web.Mvc.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\System.Web.Optimization.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\System.Web.Razor.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\System.Web.WebPages.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\System.Web.WebPages.Deployment.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\System.Web.WebPages.Razor.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Antlr3.Runtime.pdb
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Newtonsoft.Json.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Google.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\obj\Debug\Enciklopedija.csprojResolveAssemblyReference.cache
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\obj\Debug\Enciklopedija.dll
+D:\Privatno\Muzika\TheLecture\Enviklopedija\Enciklopedija\obj\Debug\Enciklopedija.pdb

@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>ASP.NET</h1>
+    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
+    <p><a href="http://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Poznate osobe iz povijesti</h2>
+        <p>@Html.ActionLink("Pregled osoba", "Index", new { area="Osobe", controller="Osobas"} )</p>
+    </div>
+    <div class="col-md-4">
+        <h2>Važni događaji iz povijesti</h2>
+        <p>@Html.ActionLink("Pregled događaja", "Index", new { area="Dogadaji", controller="Dogadajs"})</p>
+    </div>
+    <div class="col-md-4">
+        <h2>Pregled zanimljivosti</h2>
+        <p>@Html.ActionLink("Pregled zanimljivost", "Index", new { area = "Zanimljivosti", controller = "Zanimljivosts" })</p>
+    </div>
+    <div class="col-md-4">
+        <h2>Glazba</h2>
+        <p>@Html.ActionLink("Pregled pjesama i izvođača", "Index", new { area = "Glazba", controller = "Pjesmas" })</p>
+    </div>
+</div>
+
+

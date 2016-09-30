@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EnciklopedijaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Zanimljivost">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Naslov" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Opis" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Url" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="VideoUrl" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="VideoStart" Type="Int32" />
+    <Property Name="VideoEnd" Type="Int32" />
+    <Property Name="ZanrID" Type="Int32" />
+    <NavigationProperty Name="Zanr" Relationship="Self.FK_Zanimljivost_Zanr" FromRole="Zanimljivost" ToRole="Zanr" />
+    <Property Name="Glasovi" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Zanr">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Naziv" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Opis" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Zanimljivosts" Relationship="Self.FK_Zanimljivost_Zanr" FromRole="Zanr" ToRole="Zanimljivost" />
+  </EntityType>
+  <Association Name="FK_Zanimljivost_Zanr">
+    <End Role="Zanr" Type="Self.Zanr" Multiplicity="0..1" />
+    <End Role="Zanimljivost" Type="Self.Zanimljivost" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Zanr">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Zanimljivost">
+        <PropertyRef Name="ZanrID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EnciklopedijaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Zanimljivosts" EntityType="Self.Zanimljivost" />
+    <EntitySet Name="Zanrs" EntityType="Self.Zanr" />
+    <AssociationSet Name="FK_Zanimljivost_Zanr" Association="Self.FK_Zanimljivost_Zanr">
+      <End Role="Zanr" EntitySet="Zanrs" />
+      <End Role="Zanimljivost" EntitySet="Zanimljivosts" />
+    </AssociationSet>
+    <EntitySet Name="Dogadajs" EntityType="EnciklopedijaModel.Dogadaj" />
+    <EntitySet Name="Osobas" EntityType="EnciklopedijaModel.Osoba" />
+    <EntitySet Name="Izvodacs" EntityType="EnciklopedijaModel.Izvodac" />
+    <EntitySet Name="Pjesmas" EntityType="EnciklopedijaModel.Pjesma" />
+    <AssociationSet Name="FK_Pjesma_Izvodac" Association="EnciklopedijaModel.FK_Pjesma_Izvodac">
+      <End Role="Izvodac" EntitySet="Izvodacs" />
+      <End Role="Pjesma" EntitySet="Pjesmas" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Dogadaj">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Naziv" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Pocetak" Type="DateTime" Precision="3" />
+    <Property Name="Kraj" Type="DateTime" Precision="3" />
+    <Property Name="Opis" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Osoba">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ime" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Prezime" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="GodinaRodenja" Type="DateTime" Precision="3" />
+    <Property Name="GodinaSmrti" Type="DateTime" Precision="3" />
+    <Property Name="Opis" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Izvodac">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Naziv" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Napomene" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Glasovi" Type="Int32" />
+    <NavigationProperty Name="Pjesmas" Relationship="EnciklopedijaModel.FK_Pjesma_Izvodac" FromRole="Izvodac" ToRole="Pjesma" />
+  </EntityType>
+  <EntityType Name="Pjesma">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Naslov" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Napomene" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="IzvodacID" Type="Int32" />
+    <Property Name="Glasovi" Type="Int32" />
+    <NavigationProperty Name="Izvodac" Relationship="EnciklopedijaModel.FK_Pjesma_Izvodac" FromRole="Pjesma" ToRole="Izvodac" />
+    <Property Name="Datoteka" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="ContentType" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="FileName" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <Association Name="FK_Pjesma_Izvodac">
+    <End Type="EnciklopedijaModel.Izvodac" Role="Izvodac" Multiplicity="0..1" />
+    <End Type="EnciklopedijaModel.Pjesma" Role="Pjesma" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Izvodac">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Pjesma">
+        <PropertyRef Name="IzvodacID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
